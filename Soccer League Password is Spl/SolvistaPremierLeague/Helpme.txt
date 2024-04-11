@@ -1,0 +1,40 @@
+ARE YOU STUCK!NEED HELP...?
+
+WelcomeFrame:
+•	Go To Main Frame – This frame welcomes you, and this button allows you to enter the Main Frame.
+•	Exit Frame – you are also given the option to exit.
+
+MainFrame:
+•	First Record – Allows you to view the first record in the database.
+•	Next Record – Allows you to view the next records.
+•	Previous Record – Allows you to view the previous record to the one that you are viewing.
+•	Last record – Allows you to immediately view the last record.
+•	More Information – Allows you access more information about the current team.
+•	Exit- Allows you to exit program.
+
+MENU ITEMS:
+•	File –
+-       Insert
+-	Delete
+-	Update
+•	Calculations:
+-	Average goals
+-	Highest Points
+-	Lowest Points
+•	Sort – Team with highest points
+•	Search – Team
+•	Help – Help on Project
+•	Exit Button – allows you to exit program.
+
+
+
+ExitFrame:
+•	Return To DebsFrame – gives you the option of returning to the MainFrame. 
+•	Exit Program – you can exit the program.
+
+SortFrame:
+•	Sort – gives yu the sorted data of teams.
+•	Return to MainFrame – you can go back to the Main Frame.
+
+
+

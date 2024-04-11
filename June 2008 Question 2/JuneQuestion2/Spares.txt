@@ -1,0 +1,10 @@
+Abbed;Engine;80975.59;12
+Cddef;Landing gear;200.29;6
+Fgged;Aviation Air Filters;320.28;20
+Dnnyt;Oil Filter Adapters;89.90;12
+Bttgt;Airplane Batteries;1550.50;23
+Hfftg;Heat Shrinkable Tubing;786.90;45
+Shhyt;Solder Splicing Sleeves;230.78;78
+Sdder;Solder Wick;145.78;30
+Ehhyt;Engine Starters;458.89;30
+
